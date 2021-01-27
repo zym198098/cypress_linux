@@ -1,0 +1,4 @@
+/home/zym/proj/cypressTest/build/CMakeFiles/rebuild_cache.dir
+/home/zym/proj/cypressTest/build/CMakeFiles/edit_cache.dir
+/home/zym/proj/cypressTest/build/CMakeFiles/cyusb_linux.dir
+/home/zym/proj/cypressTest/build/CMakeFiles/cyusb_linux_autogen.dir

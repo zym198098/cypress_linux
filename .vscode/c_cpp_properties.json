@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/gui_src",
+                "${workspaceFolder}/build/cyusb_linux_autogen/include",
+                "${workspaceFolder}/include",
+                "/home/zym/Qt5.9.7/5.9.7/gcc_64/include",
+                "/home/zym/Qt5.9.7/5.9.7/gcc_64/include/QtWidgets",
+                "/home/zym/Qt5.9.7/5.9.7/gcc_64/include/QtNetwork",
+                "/home/zym/Qt5.9.7/5.9.7/gcc_64/include/QtCore",
+                "/usr/local/include/libusb-1.0",
+                "./gui_src"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
